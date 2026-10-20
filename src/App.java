@@ -40,7 +40,7 @@ public class App {
         }
        
         if (ika >= 40 && ika <= 50) {
-            System.out.println("Parasta keski-ikää");
+            System.out.println("Parahinta keski-ikää");
         }
     }
 }
