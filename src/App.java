@@ -30,9 +30,7 @@ public class App {
 
     // tää on vaan tämmönen speisseri
         System.out.println("");
-
-    //tätäkin voi käyttää 
-        // if (ika > 19 && ika %10 == 0) {
+    // Pyöreiden vuosien tarkistus
         if (ika == 20 || ika == 30 || ika == 40 || ika == 50 || ika ==60 || ika == 70 || ika == 80 || ika == 90) {
             System.out.println("Täytit myös pyöreitä vuosia");
         }else if (ika == 100){
