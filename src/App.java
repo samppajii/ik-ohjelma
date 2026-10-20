@@ -22,7 +22,7 @@ public class App {
 
         }else if (ika >= 65) { 
             System.out.println("Olet eläkeläinen"); 
-            System.out.println("Hyvää eläkettä!");
+            System.out.println("Oikein hyvää eläkettä!");
 
         } else { 
             System.out.println("Olet aikuinen"); 
